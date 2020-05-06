@@ -7,7 +7,7 @@ the first number minus the second number.
 
 
 def main():
-    print("This program subtracts one number from another")
+    print("This program subtracts one number from another.")
     # Get user input for both numbers
     num1 = float(input("Enter first number: "))
     num2 = float(input("Enter second number: "))
